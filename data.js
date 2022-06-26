@@ -1,5 +1,5 @@
 const ideasToCode = {
-  frontEndDevelopment: [
+  frontEndDevelopment : [
     "show music with graphics",
     "simple website builder",
     "use an API",
@@ -15,7 +15,7 @@ const ideasToCode = {
     "tip calculator",
     "food calorie tracker",
   ],
-  mobileDevelopment: [
+  mobileDevelopment : [
     "alarm clock",
     "app running in background",
     "show music with graphics",
@@ -33,7 +33,7 @@ const ideasToCode = {
     "tip calculator",
     "food calorie tracker",
   ],
-  desktopDevelopment: [
+  desktopDevelopment : [
     "simple file manager",
     "image encryption",
     "text editor",
@@ -42,7 +42,7 @@ const ideasToCode = {
     "program finder",
     "clock",
   ],
-  backEndDevelopemtn: [
+  backEndDevelopemtn : [
     "restaurant api",
     "classManager api",
     "school management",
@@ -52,7 +52,7 @@ const ideasToCode = {
     "use an ORM",
     "files manager",
   ],
-  gameDevelopment: [
+  gameDevelopment : [
     "snake game",
     "memory card game",
     "clicker game",
@@ -65,7 +65,7 @@ const ideasToCode = {
     "maths challenge",
     "detective game",
   ],
-  dataVisualization: [
+  dataVisualization : [
     "Scatter Plot",
     "Horizontal Bar Chart",
     "Box plot",
@@ -82,7 +82,7 @@ const ideasToCode = {
     "Interactive Choropleth Map",
     "Music transform each song key into colors",
   ],
-  dataAnalytics: [
+  dataAnalytics : [
     "Music recomendation system with Dataset",
     "Natural language processing Chatbot with NLTK for Text Classification",
     "Request Demand Forecast",
@@ -99,155 +99,155 @@ const ideasToCode = {
 
 const languagesAndUses = [
   {
-    language: "JavaScript",
-    studySubjects: [
+    language : "JavaScript",
+    studySubjects : [
       "frontEndDevelopment",
       "backEndDevelopment",
       "mobileDevelopment",
       "gameDevelopment",
       "desktopDevelopment",
     ],
-    frameworks: ["Angular", "React", "Vue", "Ember", "NodeJS", "ExpressJS"],
+    frameworks : [ "Angular", "React", "Vue", "Ember", "NodeJS", "ExpressJS" ],
   },
   {
-    language: "Python",
-    studySubjects: [
+    language : "Python",
+    studySubjects : [
       "frontEndDevelopment",
       "backEndDevelopment",
       "gameDevelopment",
       "dataVisualization",
       "dataAnalytics",
     ],
-    frameworks: ["Djange", "Flask"],
+    frameworks : [ "Djange", "Flask" ],
   },
   {
-    language: "R",
-    studySubjects: ["dataVisualization", "dataAnalytics"],
-    frameworks: [],
+    language : "R",
+    studySubjects : [ "dataVisualization", "dataAnalytics" ],
+    frameworks : [],
   },
   {
-    language: "Java",
-    studySubjects: [
+    language : "Java",
+    studySubjects : [
       "backEndDevelopment",
       "desktopDevelopment",
       "mobileDevelopment",
     ],
-    frameworks: ["Spring Framework, Struts, Hibernate"],
+    frameworks : [ "Spring Framework, Struts, Hibernate" ],
   },
   {
-    language: "Typescript",
-    studySubjects: [],
-    frameworks: ["NestJs", "FeatherJS"],
+    language : "Typescript",
+    studySubjects : [],
+    frameworks : [ "NestJs", "FeatherJS" ],
   },
   {
-    language: "Kotlin",
-    studySubjects: [],
-    frameworks: ["Ktor"],
+    language : "Kotlin",
+    studySubjects : [],
+    frameworks : [ "Ktor" ],
   },
   {
-    language: "PHP",
-    studySubjects: [],
-    frameworks: ["Laravel"],
+    language : "PHP",
+    studySubjects : [],
+    frameworks : [ "Laravel" ],
   },
   {
-    language: "C++",
-    studySubjects: [],
-    frameworks: ["Qt"],
+    language : "C++",
+    studySubjects : [],
+    frameworks : [ "Qt" ],
   },
   {
-    language: "C#",
-    studySubjects: [],
-    frameworks: ["ASP.NET"],
+    language : "C#",
+    studySubjects : [],
+    frameworks : [ "ASP.NET" ],
   },
   {
-    language: "Objective-C",
-    studySubjects: [],
-    frameworks: [],
+    language : "Objective-C",
+    studySubjects : [],
+    frameworks : [],
   },
   {
-    language: "Perl",
-    studySubjects: [],
-    frameworks: ["Catalyst"],
+    language : "Perl",
+    studySubjects : [],
+    frameworks : [ "Catalyst" ],
   },
   {
-    language: "Julia",
-    studySubjects: [],
-    frameworks: ["Genie"],
+    language : "Julia",
+    studySubjects : [],
+    frameworks : [ "Genie" ],
   },
   {
-    language: "Lisp",
-    studySubjects: [],
-    frameworks: ["PLT Scheme/Racket"],
+    language : "Lisp",
+    studySubjects : [],
+    frameworks : [ "PLT Scheme/Racket" ],
   },
   {
-    language: "Scala",
-    studySubjects: [],
-    frameworks: ["Akka Concurrency", "Apache Spark"],
+    language : "Scala",
+    studySubjects : [],
+    frameworks : [ "Akka Concurrency", "Apache Spark" ],
   },
   {
-    language: "Groovy",
-    studySubjects: [],
-    frameworks: ["Grails"],
+    language : "Groovy",
+    studySubjects : [],
+    frameworks : [ "Grails" ],
   },
   {
-    language: "Dart",
-    studySubjects: [],
-    frameworks: ["Flutter"],
+    language : "Dart",
+    studySubjects : [],
+    frameworks : [ "Flutter" ],
   },
   {
-    language: "Haskell",
-    studySubjects: [],
-    frameworks: [],
+    language : "Haskell",
+    studySubjects : [],
+    frameworks : [],
   },
   {
-    language: "Rust",
-    studySubjects: [],
-    frameworks: ["Rocket"],
+    language : "Rust",
+    studySubjects : [],
+    frameworks : [ "Rocket" ],
   },
   {
-    language: "Bash",
-    studySubjects: [],
-    frameworks: ["Bash-it"],
+    language : "Bash",
+    studySubjects : [],
+    frameworks : [ "Bash-it" ],
   },
   {
-    language: "Transact-SQL",
-    studySubjects: [],
-    frameworks: [],
+    language : "Transact-SQL",
+    studySubjects : [],
+    frameworks : [],
   },
   {
-    language: "PowerShell",
-    studySubjects: [],
-    frameworks: [],
+    language : "PowerShell",
+    studySubjects : [],
+    frameworks : [],
   },
   {
-    language: "Lua",
-    studySubjects: [],
-    frameworks: ["Lapis"],
+    language : "Lua",
+    studySubjects : [],
+    frameworks : [ "Lapis" ],
   },
   {
-    language: "Ruby",
-    studySubjects: [],
-    frameworks: ["Ruby on Rails"],
+    language : "Ruby",
+    studySubjects : [],
+    frameworks : [ "Ruby on Rails" ],
   },
   {
-    language: "Golang(Go)",
-    studySubjects: [],
-    frameworks: ["Gin"],
+    language : "Golang(Go)",
+    studySubjects : [],
+    frameworks : [ "Gin" ],
   },
   {
-    language: "Prolog",
-    studySubjects: [],
-    frameworks: [],
+    language : "Prolog",
+    studySubjects : [],
+    frameworks : [],
   },
   {
-    language: "SQL",
-    studySubjects: [],
-    frameworks: [],
+    language : "SQL",
+    studySubjects : [],
+    frameworks : [],
   },
   {
-    language: "NoSQL",
-    studySubjects: [],
-    frameworks: [],
+    language : "NoSQL",
+    studySubjects : [],
+    frameworks : [],
   },
 ];
 
