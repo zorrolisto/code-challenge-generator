@@ -132,7 +132,7 @@ const languagesAndUses = [
       "desktopDevelopment",
       "mobileDevelopment",
     ],
-    frameworks: ["Spring Framework"],
+    frameworks: ["Spring Framework, Struts, Hibernate"],
   },
   {
     language: "Typescript",
